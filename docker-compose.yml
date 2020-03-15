@@ -1,0 +1,31 @@
+version: '3.5'
+services: 
+    robot:
+        build: ./web_scraping_robot
+        ports:
+            - "3000:3000"
+        environment:
+            - SOURCE_PORT=3000
+            - TARGET_HOST=http://crawller-server:3333
+            - DOCKER_IP=192.168.99.100
+        links:
+            - "crawller:crawller-server"
+
+    crawller:
+        build: ./web_scraping_crawller
+        ports:
+            - "3333:3333"
+        environment:
+            - SOURCE_PORT=3333
+            - DOCKER_IP=192.168.99.100
+        links:
+            - "backend:backend-server"
+
+    backend:
+        build: ./web_scraping_backend
+        ports:
+            - "8080:8080"
+
+# networks:
+#     default:
+#         driver: custom-driver-1
