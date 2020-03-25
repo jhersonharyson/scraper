@@ -451,7 +451,7 @@ const sendDataToServer = async (data) => {
         body: JSON.stringify(data)
   };
 
-  fetch(`http://${ docker_ip || 'localhost' }:3333/api/v1/redirect`, { ...settings } )
+  fetch(`/api/v1/redirect`, { ...settings } )
     .then( response => {
       location.href = `http://${ docker_ip || 'localhost' }:8080/scraper`
     }).catch(e => {

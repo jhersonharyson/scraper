@@ -52,9 +52,12 @@ exports.post = async (req, res, next) => {
 
 exports.redirect = async (req, res, next) => {
   console.log(req.body)
+  console.log('Send to backend API')
   try{
-    const r = await axios.post('http://backend-server:8080/scraper', req.body)
-    return res.status(200).send({ r })
+    const response = await axios.post(`http://${ global.run_in_docker ? 'backend-server' : 'localhost' }:8080/scraper`, req.body)
+    console.log({response: response.data})
+    
+    return res.status(200).send({ response: response.data })
   }catch(e){
     console.log(e)
     res.send(e)

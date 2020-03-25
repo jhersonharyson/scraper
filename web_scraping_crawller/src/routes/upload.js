@@ -4,7 +4,7 @@ const uploadController = require("./../controller/upload")
 
 routes.post("/upload", uploadController.post)
 routes.post("/redirect", uploadController.redirect)
-routes.get("/", (req, res)=> res.send('ok'))
+routes.get("/okok", (req, res)=> res.send('ok'))
 
 // routes.post("/notification", async (req, res) => {
 //   const { kafka_producer } = req;

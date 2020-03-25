@@ -2,16 +2,16 @@ FROM node:12-alpine
 
 COPY . .
 
-RUN apk add --no-cache \
-# RUN apk add chromium \
-#       nss \
-#       freetype \
-#       freetype-dev \
-#       harfbuzz \
-#       ca-certificates \
-#       ttf-freefont \
-#       nodejs \
-      yarn
+# RUN apk add --no-cache \
+# # RUN apk add chromium \
+# #       nss \
+# #       freetype \
+# #       freetype-dev \
+# #       harfbuzz \
+# #       ca-certificates \
+# #       ttf-freefont \
+# #       nodejs \
+#       yarn
 
 
 # Tell Puppeteer to skip installing Chrome. We'll be using the installed package.
@@ -29,7 +29,7 @@ ENV CHROMIUM_PATH /usr/bin/chromium-browse
 
 # # Run everything after as non-privileged user.
 # USER pptruser
+# RUN npm install -g yarn
+RUN npm install
 
-RUN yarn install
-
-CMD [ "yarn", "start" ]
+CMD [ "npm", "start" ]

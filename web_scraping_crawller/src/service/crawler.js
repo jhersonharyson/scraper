@@ -39,6 +39,7 @@ ${scraper}
 `);
 
 }
+
 const writeScrapedFile = (html_with_scraper) => {
     try{
         let dir = __dirname.split(path.sep)
@@ -51,7 +52,6 @@ const writeScrapedFile = (html_with_scraper) => {
         throw new Error(`can't write new scraped file`);
     }
 }
-
 
 const joinFiles = () =>{
     try{

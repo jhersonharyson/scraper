@@ -1,6 +1,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const os = require('os')
+const path = require('path')
 const cors = require('cors')
 const getDockerHost = require('get-docker-host');
 const isInDocker = require('is-in-docker');
@@ -13,10 +14,12 @@ class Server {
     this.checkDocker().then((addr) => {
       if (addr) {
           console.log('Docker host is ' + addr);
+          global.run_in_docker = true
           this.init(initializer, kafka_producer);
 
       } else {
           console.log('Not in Docker');
+          global.run_in_docker = false
           this.init(initializer, kafka_producer);
 
       }
@@ -27,20 +30,15 @@ class Server {
   }
 
   init(initializer, kafka_producer) {
-    this.app = express();
-    this.app.use(cors())
-    this.app.use(express.static( (os.platform().includes('win') ? __dirname : '') + '/tmp'));
-    this.app.use(express.static( (os.platform().includes('win') ? __dirname : '') + '/public'));
-
-    this.app.get("/test", function(req, res) {
-      // require('./../../test.js')
-      if(os.platform().includes('win'))
-        return res.sendFile('/public/index.html')
-      return res.sendFile( 'C:\\Users\\J.Haryson\\Desktop\\tcc\\teste\\scraper\\web_scraping_crawller\\public\\index.html');
-    });
-
+    this.app = express()
     this.app.use(express.json());
     this.app.use(bodyParser.urlencoded({ extended: false }));
+    this.app.use(cors())
+    console.log(path.resolve(__dirname, '../../public'))
+    this.app.use(express.static(path.resolve(__dirname, '../../tmp')))
+    this.app.use(express.static(path.resolve(__dirname, '../../public')))
+
+    this.routes(this.app)
 
     if (kafka_producer) this.applyKafkaProducer(this.app, kafka_producer);
 
@@ -68,7 +66,7 @@ class Server {
     });
   }
 
-  checkDocker = () => {
+  checkDocker(){
     return new Promise((resolve, reject) => {
         if (isInDocker()) {
             getDockerHost((error, result) => {
