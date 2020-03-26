@@ -30,6 +30,6 @@ ENV CHROMIUM_PATH /usr/bin/chromium-browse
 # # Run everything after as non-privileged user.
 # USER pptruser
 # RUN npm install -g yarn
-RUN npm install
+# RUN npm install
 
 CMD [ "npm", "start" ]

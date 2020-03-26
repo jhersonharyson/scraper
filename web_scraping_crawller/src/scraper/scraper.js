@@ -8,7 +8,7 @@ const findPropertyWithNames = [
 const identifyPropertyWithNames = [
   {
     key: "TERMO ADITIVO A CONTRATO",
-    match: ["termo aditivo", "ta ao contrato", "tac "],
+    match: ["termo aditivo", "ta ao contrato", "tac ", "termo aditivo a contrato"],
     endMatch: ["Protocolo: "]
   },
   {
@@ -95,19 +95,22 @@ const getDateOfDocument = pages => {
 
 const getFontSize = pages => {
   let matchFontSize = 0.0;
-
+  let foundsWithMatchedFonts = 0
   for (let i = 6; i < pages.length; i++) {
     const page = pages[i];
     const elements = page.querySelectorAll("span");
+    console.log({ele: elements})
+    
     for (const element of elements) {
       if (findPropertyWithNames.indexOf(element.innerText) >= 0) {
+        foundsWithMatchedFonts += 1
         matchFontSize += convertFontSizeToNumber(
           computedStyle(element, "font-size")
         );
       }
     }
   }
-  return (matchFontSize /= 3);
+  return (matchFontSize /= foundsWithMatchedFonts);
 };
 
 const buildPagesWithOneColumn = pages => {
@@ -453,7 +456,8 @@ const sendDataToServer = async (data) => {
 
   fetch(`/api/v1/redirect`, { ...settings } )
     .then( response => {
-      location.href = `http://${ docker_ip || 'localhost' }:8080/scraper`
+      // location.href = `http://${ docker_ip || 'localhost' }:8080/scraper`
+      alert('foi')
     }).catch(e => {
       console.log(e)
     }) 
@@ -485,7 +489,6 @@ const stopwords = [
   / para /gi,
   / é /gi,
   / com /gi,
-  / não /gi,
   / uma /gi,
   / os /gi,
   / no /gi,
