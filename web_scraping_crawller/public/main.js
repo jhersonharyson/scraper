@@ -68,7 +68,7 @@ const getBasicInfos = pages => {
 };
 
 const getNumberOfDocument = pages => {
-  const i = 6;
+  const i = 0;
   const page = pages[i];
   const elements = page.getElementsByTagName("div");
 
@@ -84,7 +84,7 @@ const getNumberOfDocument = pages => {
 };
 
 const getDateOfDocument = pages => {
-  const i = 6;
+  const i = 0;
   const page = pages[i];
   const elements = page.getElementsByTagName("div");
 
@@ -96,7 +96,7 @@ const getDateOfDocument = pages => {
 const getFontSize = pages => {
   let matchFontSize = 0.0;
   let foundsWithMatchedFonts = 0
-  for (let i = 6; i < pages.length; i++) {
+  for (let i = 0; i < pages.length; i++) {
     const page = pages[i];
     const elements = page.querySelectorAll("span");
     console.log({ele: elements})
@@ -115,7 +115,7 @@ const getFontSize = pages => {
 
 const buildPagesWithOneColumn = pages => {
   let newPages = [];
-  for (let i = 6; i < pages.length; i++) {
+  for (let i = 0; i < pages.length; i++) {
     const page = pages[i];
 
     const pageWidth = page.offsetWidth;
