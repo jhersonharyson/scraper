@@ -84,7 +84,7 @@ const getNumberOfDocument = pages => {
 };
 
 const getDateOfDocument = pages => {
-  const i = 0;
+  const i = 6;
   const page = pages[i];
   const elements = page.getElementsByTagName("div");
 
