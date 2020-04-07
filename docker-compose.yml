@@ -7,7 +7,7 @@ services:
         environment:
             - SOURCE_PORT=3000
             - TARGET_HOST=http://crawller-server:3333
-            - DOCKER_IP=192.168.99.100
+            - DOCKER_IP=localhost
         links:
             - "crawller:crawller-server"
 
@@ -17,7 +17,7 @@ services:
             - "3333:3333"
         environment:
             - SOURCE_PORT=3333
-            - DOCKER_IP=192.168.99.100
+            - DOCKER_IP=localhost
         links:
             - "backend:backend-server"
 
