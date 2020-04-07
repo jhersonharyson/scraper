@@ -110,7 +110,7 @@ const getFontSize = pages => {
       }
     }
   }
-  return (matchFontSize /= foundsWithMatchedFonts);
+  return  12.1;//(matchFontSize /= foundsWithMatchedFonts);
 };
 
 const buildPagesWithOneColumn = pages => {
