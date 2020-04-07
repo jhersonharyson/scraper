@@ -13,9 +13,13 @@ app.get("/run", async function(req, res) {
     /* ---------------------------------------------------------*/
     /* ---------------------------------------------------------*/
     console.log("1. accessing diario oficial");
-    const portal = await axios.get(
-      process.env.FILE_DIARIO_HOST || "https://www.ioepa.com.br/Frame"
-    );
+
+    let ioepaUrl = process.env.FILE_DIARIO_HOST || "https://www.ioepa.com.br/Frame";
+    if(req.query.date) {
+      ioepaUrl += `?dts=${req.query.date}`;
+    }
+
+    const portal = await axios.get(ioepaUrl);
     const diario = Utils.searchInHTML(
       process.env.SELETOR_DIARIO_HOST || "div#quadro div#mid a",
       portal.data
