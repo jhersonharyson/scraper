@@ -185,7 +185,7 @@ app.get("/run", async function(req, res) {
     //   error: false,
     //   message: Utils.path().replace(/\\/g, "/")
     // });
-    return res.redirect(`http://${process.env.DOCKER_IP}:3333`)
+    return res.redirect(`http://${process.env.DOCKER_IP || 'localhost' }:3333`)
   } catch (err) {
     console.error(err);
 
