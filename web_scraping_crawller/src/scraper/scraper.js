@@ -12,6 +12,11 @@ const identifyPropertyWithNames = [
     endMatch: ["Protocolo: "]
   },
   {
+    key: "DISPENSA DE LICITAÇÃO",
+    match: ["dispensa de licitação", "dispensa de licitacao", "dispensa licitação"],
+    endMatch: ["Protocolo: "]
+  },
+  {
     key: "TERMO ADITIVO A CONVÊNIO",
     match: ["termo aditivo", "ta ao contrato"]
   },
@@ -226,85 +231,71 @@ const searchForAnIdentityElementAndCount = content => {
   let protocol = [];
   let count = {};
   let text = [];
-  content.forEach(element => {
-    let key = null;
-    let begin = false;
-    let lastIndex = 0;
-    let elementDataCutter = element.data;
-    element.data.forEach(data => {
-      [identifyPropertyWithNames[0]].forEach(search => {
-        if (data.indexOf(search.key) >= 0 && key == null) {
-          // begin matching
-          //alert("init");
-          key = data;
-          return;
-        }
+  [
+    identifyPropertyWithNames[0], 
+    identifyPropertyWithNames[1] 
+  ].forEach(property => {
 
-        if (
-          !!search.match.filter(
-            m => data.toLowerCase().indexOf(m.toLowerCase()) >= 0
-          ).length &&
-          key != null
-        ) {
-          //alert("begin");
-          begin = true;
-          // alert(data);
-          lastIndex = elementDataCutter.indexOf(data);
-          return;
-        }
+    content.forEach(element => {
+      let key = null;
+      let begin = false;
+      let lastIndex = 0;
+      let elementDataCutter = element.data;
 
-        if (
-          !!search.endMatch.filter(
-            m => data.toLowerCase().indexOf(m.toLowerCase()) >= 0
-          ).length &&
-          begin
-        ) {
-          begin = false;
-          //alert("end");
+      element.data.forEach(data => {
 
-          //protocol.push(Number(data.split(" ")[1]));
-          index = elementDataCutter.indexOf(data) + 1;
-
-          // console.info({
-          //   data,
-          //   lastIndex,
-          //   index,
-          //   t: index <= lastIndex,
-          //   di: element.data[index + 1],
-          //   dl: element.data[lastIndex]
-          // });
-
-          text = elementDataCutter.slice(lastIndex, index);
-          elementDataCutter = elementDataCutter.slice(lastIndex + 1);
-          lastIndex = elementDataCutter.indexOf(data) + 1;
-          // end
-          if (!count[element.name]) {
-            count[element.name] = {
-              [search.key]: {
-                count: 1,
-                content: [[...new Set(text)].join(" \n\n ")]
-              }
-            };
-            text = [];
-          } else {
-            count[element.name] = {
-              ...count[element.name],
-              [search.key]: {
-                count: count[element.name][search.key].count + 1,
-                content: [
-                  ...count[element.name][search.key].content,
-                  [...new Set(text)].join(" \n\n ")
-                ]
-              }
-            };
-            text = [];
+        [ property ].forEach(search => {
+          if (data.indexOf(search.key) >= 0 && key == null) {
+            // begin matching
+            //alert("init");
+            key = data;
+            return;
           }
 
-          return;
-        }
+          if ( !!search.match.filter( m => data.toLowerCase().indexOf(m.toLowerCase()) >= 0 ).length && key != null ) {
+
+            begin = true;
+            lastIndex = elementDataCutter.indexOf(data);
+            return;
+          }
+
+          if ( !!search.endMatch.filter( m => data.toLowerCase().indexOf(m.toLowerCase()) >= 0 ).length && begin ) {
+            begin = false;
+            protocol.push(Number(data.split(" ")[1]));
+            index = elementDataCutter.indexOf(data) + 1;
+            text = elementDataCutter.slice(lastIndex, index);
+            elementDataCutter = elementDataCutter.slice(lastIndex + 1);
+            lastIndex = elementDataCutter.indexOf(data) + 1;
+            // end
+            if (!count[element.name]) {
+              count[element.name] = {
+                [search.key]: {
+                  count: 1,
+                  content: [[...new Set(text)].join(" \n\n ")]
+                }
+              };
+              text = [];
+            } else {
+              count[element.name] = {
+                ...count[element.name],
+                [search.key]: {
+                  count: (count[element.name][search.key]?.count || 0) + 1,
+                  content: count[element.name][search.key]?.content ? [
+                    ...count[element.name][search.key].content,
+                    [...new Set(text)].join(" \n\n ")
+                  ] : [...new Set(text)].join(" \n\n ")
+                }
+              };
+              text = [];
+            }
+
+            return;
+          }
+        });
       });
     });
   });
+
   console.log("");
   console.log("** protocols founded: ");
   console.info(protocol);
