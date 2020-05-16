@@ -1,0 +1,1700 @@
+{
+  "id" : 1,
+  "fileName" : "08_DE_ABRIL_DE_2020_1589646833353.json",
+  "dateOfDocument" : "08 DE ABRIL DE 2020",
+  "sourceUrl" : "files/08_DE_ABRIL_DE_2020_1589646833353.json",
+  "date" : 1589646817967,
+  "numberOfDocument" : "DIÁRIO OFICIAL Nº 34.175",
+  "organ" : [ {
+    "id" : 1,
+    "organName" : "INSTITUTO DE ASSISTÊNCIA DOS SERVIDORES DO ESTADO DO PARÁ",
+    "terms" : [ {
+      "id" : 1,
+      "description" : "TERMO ADITIVO A CONTRATO",
+      "count" : 1,
+      "dataContent" : {
+        "id" : 1,
+        "content" : [ {
+          "id" : 1,
+          "data" : "Termo Aditivo:2º \n\n Data da Assinatura:02/04/2020 \n\n Vigência: 02/04/2020 a 02 /04/2021 \n\n Justificativa: Prorrogação do prazo de vigência. \n\n Contrato: 017 \n\n Exercício: 2018 \n\n Dotação Orçamentária: 8888- 0261 - 339039 \n\n Contratada: REABILITAÇÃO CLÍNICA & SERVIÇOS LTDA- CLINICA REABI- \n\n LITA MAIS \n\n CNPJ n. 27.613.119/0001-96 \n\n Endereço: RUA JOSE BARROS DA SILVA nº.608, Bairro CENTRO, município \n\n CAPITÃO POÇO/PA, CEP:68.650-000 \n\n Ordenador: BERNARDO ALBUQUERQUE DE ALMEIDA \n\n ------------------------------------------------------- \n\n TERMO ADITIVO A CONTRATO \n\n PROCESSO Nº 2020/193393 \n\n Data da Assinatura:04/04/2020 \n\n Vigência: 04/04/2020 a 04/04/2021 \n\n Contrato:018 \n\n Exercício:2018 \n\n Contratada: C.R DA ROCHA-ME \n\n CNPJ n. 16.909.823/0001-74 \n\n Endereço: Rodovia Augusto Montenegro, Bairro Parque Verde, município \n\n BELÉM/PA, CEP:66.635-226, \n\n Contrato:019 \n\n Contratada: GOLD NEFRO SERVIÇOS DE NEFROLOGIA LTDA-EPP \n\n CNPJ n. 27.650.801/0001-59 \n\n Endereço: TV BARÃO DO TRIUNFO nº.3618, Bairro Marco, município BE- \n\n LÉM/PA, CEP:66093-050 \n\n Data da Assinatura:06/04/2020 \n\n Vigência: 06/04/2020 a 06 /04/2021 \n\n Contrato:020 \n\n Contratada: A C FERNANDES DA SILVA EIRELI- BIO MED \n\n CNPJ n. 18.633.902/0001-20 \n\n Endereço: AV. TV WE 71, nº.311,CIDADE NOVA VI, Bairro CIDADE NOVA, \n\n município ANANINDEUA/PA, CEP:67.140-130 \n\n Protocolo: 539339"
+        } ],
+        "scrapedContent" : [ {
+          "id" : 1,
+          "dataScraped" : [ {
+            "id" : 1,
+            "data" : [ {
+              "id" : 2,
+              "data" : "aditivo"
+            }, {
+              "id" : 3,
+              "data" : "2º"
+            } ]
+          }, {
+            "id" : 2,
+            "data" : [ {
+              "id" : 4,
+              "data" : "data assinatura"
+            }, {
+              "id" : 5,
+              "data" : "02/04/2020"
+            } ]
+          }, {
+            "id" : 3,
+            "data" : [ {
+              "id" : 6,
+              "data" : "vigencia"
+            }, {
+              "id" : 7,
+              "data" : " 02/04/2020 02 /04/2021"
+            } ]
+          }, {
+            "id" : 4,
+            "data" : [ {
+              "id" : 8,
+              "data" : "justificativa"
+            }, {
+              "id" : 9,
+              "data" : " prorrogacao prazo vigencia."
+            } ]
+          }, {
+            "id" : 5,
+            "data" : [ {
+              "id" : 10,
+              "data" : "contrato"
+            }, {
+              "id" : 11,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 6,
+            "data" : [ {
+              "id" : 12,
+              "data" : "017 exercicio"
+            }, {
+              "id" : 13,
+              "data" : " 2018"
+            } ]
+          }, {
+            "id" : 7,
+            "data" : [ {
+              "id" : 14,
+              "data" : "dotacao orcamentaria"
+            }, {
+              "id" : 15,
+              "data" : " 88880261 -"
+            } ]
+          }, {
+            "id" : 8,
+            "data" : [ {
+              "id" : 16,
+              "data" : "339039 contratada"
+            }, {
+              "id" : 17,
+              "data" : " reabilitacao clinica & servicos ltdaclinica reabilita cnpj n. 27.613.119/0001-96"
+            } ]
+          }, {
+            "id" : 9,
+            "data" : [ {
+              "id" : 18,
+              "data" : "endereco"
+            }, {
+              "id" : 19,
+              "data" : " rua jose barros silva nº.608, bairro centro, municipio capitao poco/pa,"
+            } ]
+          }, {
+            "id" : 10,
+            "data" : [ {
+              "id" : 20,
+              "data" : "cep"
+            }, {
+              "id" : 21,
+              "data" : "68.650-000"
+            } ]
+          }, {
+            "id" : 11,
+            "data" : [ {
+              "id" : 22,
+              "data" : "ordenador"
+            }, {
+              "id" : 23,
+              "data" : " bernardo albuquerque almeida ------------------------------------------------------- termo aditivo contrato processo nº 2020/193393"
+            } ]
+          }, {
+            "id" : 12,
+            "data" : [ {
+              "id" : 24,
+              "data" : "data assinatura"
+            }, {
+              "id" : 25,
+              "data" : "04/04/2020"
+            } ]
+          }, {
+            "id" : 13,
+            "data" : [ {
+              "id" : 26,
+              "data" : "vigencia"
+            }, {
+              "id" : 27,
+              "data" : " 04/04/2020 04/04/2021"
+            } ]
+          }, {
+            "id" : 14,
+            "data" : [ {
+              "id" : 28,
+              "data" : "contrato"
+            }, {
+              "id" : 29,
+              "data" : "018"
+            } ]
+          }, {
+            "id" : 15,
+            "data" : [ {
+              "id" : 30,
+              "data" : "exercicio"
+            }, {
+              "id" : 31,
+              "data" : "2018"
+            } ]
+          }, {
+            "id" : 16,
+            "data" : [ {
+              "id" : 32,
+              "data" : "contratada"
+            }, {
+              "id" : 33,
+              "data" : " c.r rocha-me cnpj n. 16.909.823/0001-74"
+            } ]
+          }, {
+            "id" : 17,
+            "data" : [ {
+              "id" : 34,
+              "data" : "endereco"
+            }, {
+              "id" : 35,
+              "data" : " rodovia augusto montenegro, bairro parque verde, municipio belem/pa,"
+            } ]
+          }, {
+            "id" : 18,
+            "data" : [ {
+              "id" : 36,
+              "data" : "cep"
+            }, {
+              "id" : 37,
+              "data" : "66.635-226,"
+            } ]
+          }, {
+            "id" : 19,
+            "data" : [ {
+              "id" : 38,
+              "data" : "contrato"
+            }, {
+              "id" : 39,
+              "data" : "019"
+            } ]
+          }, {
+            "id" : 20,
+            "data" : [ {
+              "id" : 40,
+              "data" : "contratada"
+            }, {
+              "id" : 41,
+              "data" : " gold nefro servicos nefrologia ltda-epp cnpj n. 27.650.801/0001-59"
+            } ]
+          }, {
+            "id" : 21,
+            "data" : [ {
+              "id" : 42,
+              "data" : "endereco"
+            }, {
+              "id" : 43,
+              "data" : " tv barao triunfo nº.3618, bairro marco, municipio belem/pa,"
+            } ]
+          }, {
+            "id" : 22,
+            "data" : [ {
+              "id" : 44,
+              "data" : "cep"
+            }, {
+              "id" : 45,
+              "data" : "66093-050"
+            } ]
+          }, {
+            "id" : 23,
+            "data" : [ {
+              "id" : 46,
+              "data" : "data assinatura"
+            }, {
+              "id" : 47,
+              "data" : "06/04/2020"
+            } ]
+          }, {
+            "id" : 24,
+            "data" : [ {
+              "id" : 48,
+              "data" : "vigencia"
+            }, {
+              "id" : 49,
+              "data" : " 06/04/2020 06 /04/2021"
+            } ]
+          }, {
+            "id" : 25,
+            "data" : [ {
+              "id" : 50,
+              "data" : "contrato"
+            }, {
+              "id" : 51,
+              "data" : "020"
+            } ]
+          }, {
+            "id" : 26,
+            "data" : [ {
+              "id" : 52,
+              "data" : "contratada"
+            }, {
+              "id" : 53,
+              "data" : " c fernandes silva eirelibio med cnpj n. 18.633.902/0001-20"
+            } ]
+          }, {
+            "id" : 27,
+            "data" : [ {
+              "id" : 54,
+              "data" : "endereco"
+            }, {
+              "id" : 55,
+              "data" : " av. tv we 71, nº.311,cidade nova vi, bairro cidade nova, municipio ananindeua/pa,"
+            } ]
+          }, {
+            "id" : 28,
+            "data" : [ {
+              "id" : 56,
+              "data" : "cep"
+            }, {
+              "id" : 57,
+              "data" : "67.140-130"
+            } ]
+          } ]
+        } ]
+      }
+    } ]
+  }, {
+    "id" : 2,
+    "organName" : "SECRETARIA DE ESTADO DA FAZENDA",
+    "terms" : [ {
+      "id" : 2,
+      "description" : "TERMO ADITIVO A CONTRATO",
+      "count" : 1,
+      "dataContent" : {
+        "id" : 2,
+        "content" : [ {
+          "id" : 58,
+          "data" : "nº 372020730000588-4/SEFA, o presente termo aditivo tem por objeto: A \n\n prorrogação do prazo de vigência do Contrato por 12 meses; Reajuste do \n\n valor mensal do Contrato, no valor de R$ 39.777,09, perfazendo o valor \n\n total de R$ 477.325,08. \n\n Orçamento: 17101.04.123.1508.8251 \n\n Natureza da Despesa: 33.90.39 \n\n Fonte de Recursos: 0101 \n\n DIÁRIO OFICIAL Nº 34.175  \n\n Contratada: A & B ADMINISTRAÇÃO DE IMÓVEIS LTDA, CNPJ nº \n\n 10.443.098/0001-05. \n\n Endereço: Avenida Governador José Malcher, nº 168, sala 410 - Centro \n\n Empresarial Bolonha, Bairro Nazaré, Belém, Pará, CEP nº 66055-260. \n\n Ordenadora: SIMONE MARIA MORGADO FERREIRA \n\n Protocolo: 540109"
+        } ],
+        "scrapedContent" : [ {
+          "id" : 2,
+          "dataScraped" : [ {
+            "id" : 29,
+            "data" : [ {
+              "id" : 59,
+              "data" : "aditivo objeto"
+            }, {
+              "id" : 60,
+              "data" : " prorrogacao prazo vigencia contrato 12 meses; reajuste valor mensal contrato, valor r$ 39.777,09, perfazendo valor total r$ 477.325,08."
+            } ]
+          }, {
+            "id" : 30,
+            "data" : [ {
+              "id" : 61,
+              "data" : "orcamento"
+            }, {
+              "id" : 62,
+              "data" : " 17101.04.123.1508.8251"
+            } ]
+          }, {
+            "id" : 31,
+            "data" : [ {
+              "id" : 63,
+              "data" : "natureza despesa"
+            }, {
+              "id" : 64,
+              "data" : " 33.90.39"
+            } ]
+          }, {
+            "id" : 32,
+            "data" : [ {
+              "id" : 65,
+              "data" : "fonte recursos"
+            }, {
+              "id" : 66,
+              "data" : " 0101 diario oficial nº 34.175"
+            } ]
+          }, {
+            "id" : 33,
+            "data" : [ {
+              "id" : 67,
+              "data" : "contratada"
+            }, {
+              "id" : 68,
+              "data" : " & b administracao imoveis ltda, cnpj nº 10.443.098/0001-05."
+            } ]
+          }, {
+            "id" : 34,
+            "data" : [ {
+              "id" : 69,
+              "data" : "endereco"
+            }, {
+              "id" : 70,
+              "data" : " avenida governador jose malcher, nº 168, sala 410 - centro empresarial bolonha, bairro nazare, belem, para, cep nº 66055-260."
+            } ]
+          }, {
+            "id" : 35,
+            "data" : [ {
+              "id" : 71,
+              "data" : "ordenadora"
+            }, {
+              "id" : 72,
+              "data" : " simone maria morgado"
+            } ]
+          } ]
+        } ]
+      }
+    } ]
+  }, {
+    "id" : 3,
+    "organName" : "BANCO DO ESTADO DO PARÁ",
+    "terms" : [ {
+      "id" : 3,
+      "description" : "TERMO ADITIVO A CONTRATO",
+      "count" : 1,
+      "dataContent" : {
+        "id" : 3,
+        "content" : [ {
+          "id" : 73,
+          "data" : "TERMO ADITIVO Nº: 01 \n\n DATA DE ASSINATURA: 01.04.2020 \n\n TERMO DE DOAÇÃO: Nº 001/2019 \n\n PARTES: Banco do Estado do Pará S. A. e Obras das Filhas do Amor de \n\n Jesus Cristo - Casa do Menino Jesus III \n\n VALOR: R$ 358.266,36 (trezentos e cinquenta e oito mil, duzentos e ses- \n\n senta e seis reais e trinta e seis centavos) \n\n VIGÊNCIA: 01.04.2020 a 31.03.2021 \n\n OBJETO: Doação Pura e Simples \n\n JUSTIFICATIVA: Reajuste do Valor \n\n DOTAÇÃO ORÇAMENTÁRIA: Recursos Próprios \n\n FONTE DE RECURSO: Própria \n\n FORO: Belém \n\n DATA DA ASSINATURA: 01.04.2020 \n\n ENDEREÇO DO CONTRATADO: Trav. Castelo Branco nº 1403 - Bairro São Brás \n\n ORDENADOR RESPONSÁVEL: Braselino Carlos da Assunção Sousa da Silva \n\n Protocolo: 540308"
+        } ],
+        "scrapedContent" : [ {
+          "id" : 3,
+          "dataScraped" : [ {
+            "id" : 36,
+            "data" : [ {
+              "id" : 74,
+              "data" : "data assinatura"
+            }, {
+              "id" : 75,
+              "data" : " 01.04.2020"
+            } ]
+          }, {
+            "id" : 37,
+            "data" : [ {
+              "id" : 76,
+              "data" : "termo doacao"
+            }, {
+              "id" : 77,
+              "data" : " nº 001/2019"
+            } ]
+          }, {
+            "id" : 38,
+            "data" : [ {
+              "id" : 78,
+              "data" : "partes"
+            }, {
+              "id" : 79,
+              "data" : " banco estado s. a. obras filhas amor jesus cristo - casa menino jesus"
+            } ]
+          }, {
+            "id" : 39,
+            "data" : [ {
+              "id" : 80,
+              "data" : "iii valor"
+            }, {
+              "id" : 81,
+              "data" : " r$ 358.266,36 (trezentos cinquenta oito mil, duzentos sessenta seis reais trinta seis centavos)"
+            } ]
+          }, {
+            "id" : 40,
+            "data" : [ {
+              "id" : 82,
+              "data" : "vigencia"
+            }, {
+              "id" : 83,
+              "data" : " 01.04.2020 31.03.2021"
+            } ]
+          }, {
+            "id" : 41,
+            "data" : [ {
+              "id" : 84,
+              "data" : "objeto"
+            }, {
+              "id" : 85,
+              "data" : " doacao pura"
+            } ]
+          }, {
+            "id" : 42,
+            "data" : [ {
+              "id" : 86,
+              "data" : "simples justificativa"
+            }, {
+              "id" : 87,
+              "data" : " reajuste valor"
+            } ]
+          }, {
+            "id" : 43,
+            "data" : [ {
+              "id" : 88,
+              "data" : "dotacao orcamentaria"
+            }, {
+              "id" : 89,
+              "data" : " recursos proprios"
+            } ]
+          }, {
+            "id" : 44,
+            "data" : [ {
+              "id" : 90,
+              "data" : "fonte recurso"
+            }, {
+              "id" : 91,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 45,
+            "data" : [ {
+              "id" : 92,
+              "data" : "propria foro"
+            }, {
+              "id" : 93,
+              "data" : " belem"
+            } ]
+          }, {
+            "id" : 46,
+            "data" : [ {
+              "id" : 94,
+              "data" : "data assinatura"
+            }, {
+              "id" : 95,
+              "data" : " 01.04.2020"
+            } ]
+          }, {
+            "id" : 47,
+            "data" : [ {
+              "id" : 96,
+              "data" : "endereco contratado"
+            }, {
+              "id" : 97,
+              "data" : " trav. castelo branco nº 1403 - bairro sao bras"
+            } ]
+          }, {
+            "id" : 48,
+            "data" : [ {
+              "id" : 98,
+              "data" : "ordenador responsavel"
+            }, {
+              "id" : 99,
+              "data" : " braselino carlos assuncao sousa"
+            } ]
+          } ]
+        } ]
+      }
+    } ]
+  }, {
+    "id" : 4,
+    "organName" : "SECRETARIA DE ESTADO DE TRANSPORTES",
+    "terms" : [ {
+      "id" : 4,
+      "description" : "TERMO ADITIVO A CONTRATO",
+      "count" : 2,
+      "dataContent" : {
+        "id" : 4,
+        "content" : [ {
+          "id" : 100,
+          "data" : "EXTRATO DE TERMO ADITIVO \n\n Nº DO CONTRATO: 071/2018 \n\n PROCESSO: 2018/215929 \n\n JUSTIFICATIVA: é decorrente de requerimento da contratada e de mani- \n\n festação de vontade da SETRAN (DIRTEC), devidamente fundamentada no \n\n art. 57, par 1º, inciso I da Lei nº 8.666/93, passando consequentemente os \n\n documentos referenciados a fazerem parte integrante deste instrumento. \n\n INICIO DE VIGENCIA: 19/11/2019 \n\n TERMINO DE VI- \n\n GENCIA: 16/05/2020 \n\n PRAZO: 180 (cento e oitenta) dias \n\n CONTRATADA: Paulo Raymundo Brigido de Oliveira EIRELLI \n\n Personalidade: Jurídica \n\n CNPJ: 22.911.135/0001-41 \n\n LOGRADOURO: Tv. Lomas Valentina, Pass. São Pedsro - nº 2408 \n\n BAIRRO: Marco CEP: 66095-720 \n\n CIDADE: Belém UF: PA \n\n ORDENADOR: Antonio de Pádua de Deus Andrade - \n\n Secretario de Estado de Transportes \n\n Protocolo: 540280"
+        }, {
+          "id" : 101,
+          "data" : "EXTRATO DO 5º TERMO ADITIVO DE PRORROGAÇÃO DE PRAZO \n\n Nº DO CONTRATO: 032/2018 \n\n PROCESSO: 2018/59158 \n\n JUSTIFICATIVA: É decorrente da solicitação feita pela contratada, motiva- \n\n do pelo interesse na continuação da prestação de serviços, devidamente \n\n acolhida e autorizada pela autoridade superior e setor técnico, com funda- \n\n mento no art. 57, par. 1º, II da Lei nº 8.666/93. \n\n INICIO DE VIGENCIA: 14/02/2020 \n\n TERMINO DE VIGENCIA: 15/06/2020 \n\n PRAZO: 120 (cento e vinte) dias \n\n DADOS DA CONTRATADA: \n\n NOME: AMAZON CONSTRUTORA EMPREENDIMENTO LTDA \n\n PERSONALIDADE: Jurídica \n\n CNPJ: 27.532.063/0001-45 \n\n LOGRADOURO: Avenida Brasília, nº 85, sala 85, 2º andar \n\n BAIRRO: Santa Isabel CEP: 66055-170 CIDADE: Tucuruí UF: PA \n\n ORDENADOR: Antonio de Pádua de Deus Andrade - \n\n Secretario de Estado de TRansportes \n\n Protocolo: 540258"
+        } ],
+        "scrapedContent" : [ {
+          "id" : 4,
+          "dataScraped" : [ {
+            "id" : 49,
+            "data" : [ {
+              "id" : 102,
+              "data" : "contrato"
+            }, {
+              "id" : 103,
+              "data" : " 071/2018"
+            } ]
+          }, {
+            "id" : 50,
+            "data" : [ {
+              "id" : 104,
+              "data" : "processo"
+            }, {
+              "id" : 105,
+              "data" : " 2018/215929"
+            } ]
+          }, {
+            "id" : 51,
+            "data" : [ {
+              "id" : 106,
+              "data" : "justificativa"
+            }, {
+              "id" : 107,
+              "data" : " decorrente requerimento contratada manifestacao vontade setran (dirtec), devidamente fundamentada art. 57, par 1º, inciso i lei nº 8.666/93, passando consequentemente documentos referenciados fazerem parte integrante deste instrumento."
+            } ]
+          }, {
+            "id" : 52,
+            "data" : [ {
+              "id" : 108,
+              "data" : "inicio vigencia"
+            }, {
+              "id" : 109,
+              "data" : " 19/11/2019"
+            } ]
+          }, {
+            "id" : 53,
+            "data" : [ {
+              "id" : 110,
+              "data" : "termino vigencia"
+            }, {
+              "id" : 111,
+              "data" : " 16/05/2020"
+            } ]
+          }, {
+            "id" : 54,
+            "data" : [ {
+              "id" : 112,
+              "data" : "prazo"
+            }, {
+              "id" : 113,
+              "data" : " 180 (cento oitenta)"
+            } ]
+          }, {
+            "id" : 55,
+            "data" : [ {
+              "id" : 114,
+              "data" : "dias contratada"
+            }, {
+              "id" : 115,
+              "data" : " paulo raymundo brigido oliveira"
+            } ]
+          }, {
+            "id" : 56,
+            "data" : [ {
+              "id" : 116,
+              "data" : "eirelli personalidade"
+            }, {
+              "id" : 117,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 57,
+            "data" : [ {
+              "id" : 118,
+              "data" : "juridica cnpj"
+            }, {
+              "id" : 119,
+              "data" : " 22.911.135/0001-41"
+            } ]
+          }, {
+            "id" : 58,
+            "data" : [ {
+              "id" : 120,
+              "data" : "logradouro"
+            }, {
+              "id" : 121,
+              "data" : " tv. lomas valentina, pass. sao pedsro - nº"
+            } ]
+          }, {
+            "id" : 59,
+            "data" : [ {
+              "id" : 122,
+              "data" : "2408 bairro"
+            }, {
+              "id" : 123,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 60,
+            "data" : [ {
+              "id" : 124,
+              "data" : "marco cep"
+            }, {
+              "id" : 125,
+              "data" : " 66095-720"
+            } ]
+          }, {
+            "id" : 61,
+            "data" : [ {
+              "id" : 126,
+              "data" : "cidade"
+            }, {
+              "id" : 127,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 62,
+            "data" : [ {
+              "id" : 128,
+              "data" : "belem uf"
+            }, {
+              "id" : 129,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 63,
+            "data" : [ {
+              "id" : 130,
+              "data" : "pa ordenador"
+            }, {
+              "id" : 131,
+              "data" : " antonio padua deus andrade - secretario estado"
+            } ]
+          } ]
+        }, {
+          "id" : 5,
+          "dataScraped" : [ {
+            "id" : 64,
+            "data" : [ {
+              "id" : 132,
+              "data" : "contrato"
+            }, {
+              "id" : 133,
+              "data" : " 032/2018"
+            } ]
+          }, {
+            "id" : 65,
+            "data" : [ {
+              "id" : 134,
+              "data" : "processo"
+            }, {
+              "id" : 135,
+              "data" : " 2018/59158"
+            } ]
+          }, {
+            "id" : 66,
+            "data" : [ {
+              "id" : 136,
+              "data" : "justificativa"
+            }, {
+              "id" : 137,
+              "data" : " decorrente solicitacao feita contratada, motivainteresse continuacao prestacao servicos, devidamente acolhida autorizada autoridade superior setor tecnico, fundamento art. 57, par. 1º, ii lei nº 8.666/93."
+            } ]
+          }, {
+            "id" : 67,
+            "data" : [ {
+              "id" : 138,
+              "data" : "inicio vigencia"
+            }, {
+              "id" : 139,
+              "data" : " 14/02/2020"
+            } ]
+          }, {
+            "id" : 68,
+            "data" : [ {
+              "id" : 140,
+              "data" : "termino vigencia"
+            }, {
+              "id" : 141,
+              "data" : " 15/06/2020"
+            } ]
+          }, {
+            "id" : 69,
+            "data" : [ {
+              "id" : 142,
+              "data" : "prazo"
+            }, {
+              "id" : 143,
+              "data" : " 120 (cento vinte) dias"
+            } ]
+          }, {
+            "id" : 70,
+            "data" : [ {
+              "id" : 144,
+              "data" : "dados contratada"
+            }, {
+              "id" : 145,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 71,
+            "data" : [ {
+              "id" : 146,
+              "data" : "nome"
+            }, {
+              "id" : 147,
+              "data" : " amazon construtora empreendimento"
+            } ]
+          }, {
+            "id" : 72,
+            "data" : [ {
+              "id" : 148,
+              "data" : "ltda personalidade"
+            }, {
+              "id" : 149,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 73,
+            "data" : [ {
+              "id" : 150,
+              "data" : "juridica cnpj"
+            }, {
+              "id" : 151,
+              "data" : " 27.532.063/0001-45"
+            } ]
+          }, {
+            "id" : 74,
+            "data" : [ {
+              "id" : 152,
+              "data" : "logradouro"
+            }, {
+              "id" : 153,
+              "data" : " avenida brasilia, nº 85, sala 85, 2º"
+            } ]
+          }, {
+            "id" : 75,
+            "data" : [ {
+              "id" : 154,
+              "data" : "andar bairro"
+            }, {
+              "id" : 155,
+              "data" : " santa"
+            } ]
+          }, {
+            "id" : 76,
+            "data" : [ {
+              "id" : 156,
+              "data" : "isabel cep"
+            }, {
+              "id" : 157,
+              "data" : " 66055-170"
+            } ]
+          }, {
+            "id" : 77,
+            "data" : [ {
+              "id" : 158,
+              "data" : "cidade"
+            }, {
+              "id" : 159,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 78,
+            "data" : [ {
+              "id" : 160,
+              "data" : "tucurui uf"
+            }, {
+              "id" : 161,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 79,
+            "data" : [ {
+              "id" : 162,
+              "data" : "pa ordenador"
+            }, {
+              "id" : 163,
+              "data" : " antonio padua deus andrade - secretario estado"
+            } ]
+          } ]
+        } ]
+      }
+    } ]
+  }, {
+    "id" : 5,
+    "organName" : "POLICIA MILITAR DO PARÁ",
+    "terms" : [ {
+      "id" : 5,
+      "description" : "TERMO ADITIVO A CONTRATO",
+      "count" : 1,
+      "dataContent" : {
+        "id" : 5,
+        "content" : [ {
+          "id" : 164,
+          "data" : "31/03/2021. A despesa com este termo aditivo ocorrerá da seguinte forma: \n\n programa: 1297- Manutenção da gestão; Ação: 4668 - Abastecimento de \n\n Unidades Móveis do Estado; Natureza da Despesa: 3.3.90.30.01 - Material \n\n de Consumo/ Combustíveis e Lubrificantes Automotivos; Plano Interno: \n\n 4120004668C; Fonte de Recurso: 0101 (Recurso do Estado).EMPRESA: \n\n TICKET LOG - TICKET SOLUÇÕES HDFGT S/A, CNPJ: 03.506.307/0001-57, \n\n estabelecida na Rua 18 de novembro, nº 273 - 6º Andar, Bairro Navegan- \n\n tes, Porto Alegre/ RS. CEP: 90240-040. ORDENADOR: JOSÉ DÍLSON MELO \n\n DE SOUZA JÚNIOR - CEL QOPM. \n\n Protocolo: 540302"
+        } ],
+        "scrapedContent" : [ {
+          "id" : 6,
+          "dataScraped" : [ {
+            "id" : 80,
+            "data" : [ {
+              "id" : 165,
+              "data" : "seguinte forma"
+            }, {
+              "id" : 166,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 81,
+            "data" : [ {
+              "id" : 167,
+              "data" : "programa"
+            }, {
+              "id" : 168,
+              "data" : " 1297manutencao gestao;"
+            } ]
+          }, {
+            "id" : 82,
+            "data" : [ {
+              "id" : 169,
+              "data" : "acao"
+            }, {
+              "id" : 170,
+              "data" : " 4668 - abastecimento unidades moveis estado;"
+            } ]
+          }, {
+            "id" : 83,
+            "data" : [ {
+              "id" : 171,
+              "data" : "natureza despesa"
+            }, {
+              "id" : 172,
+              "data" : " 3.3.90.30.01 - material consumo/ combustiveis lubrificantes automotivos;"
+            } ]
+          }, {
+            "id" : 84,
+            "data" : [ {
+              "id" : 173,
+              "data" : "plano interno"
+            }, {
+              "id" : 174,
+              "data" : " 4120004668c;"
+            } ]
+          }, {
+            "id" : 85,
+            "data" : [ {
+              "id" : 175,
+              "data" : "fonte recurso"
+            }, {
+              "id" : 176,
+              "data" : " 0101 (recurso estado).empresa"
+            }, {
+              "id" : 177,
+              "data" : " ticket log - ticket solucoes hdfgt s/a,"
+            } ]
+          }, {
+            "id" : 86,
+            "data" : [ {
+              "id" : 178,
+              "data" : "cnpj"
+            }, {
+              "id" : 179,
+              "data" : " 03.506.307/0001-57, estabelecida rua 18 novembro, nº 273 - 6º andar, bairro navegantes, porto alegre/ rs."
+            } ]
+          }, {
+            "id" : 87,
+            "data" : [ {
+              "id" : 180,
+              "data" : "cep"
+            }, {
+              "id" : 181,
+              "data" : " 90240-040."
+            } ]
+          }, {
+            "id" : 88,
+            "data" : [ {
+              "id" : 182,
+              "data" : "ordenador"
+            }, {
+              "id" : 183,
+              "data" : " jose dilson melo souza junior - cel qopm."
+            } ]
+          } ]
+        } ]
+      }
+    } ]
+  }, {
+    "id" : 6,
+    "organName" : "FUNDO DE SAÚDE DA POLÍCIA MILITAR",
+    "terms" : [ {
+      "id" : 6,
+      "description" : "TERMO ADITIVO A CONTRATO",
+      "count" : 1,
+      "dataContent" : {
+        "id" : 6,
+        "content" : [ {
+          "id" : 184,
+          "data" : "2º Termo Aditivo ao Contrato \n\n Credenciamento n° 007/2018- FUNSAU \n\n Objeto: Retirada de procedimentos odontológicos do Contrato de Creden- \n\n ciamento nº 007/2018, não alterando as demais cláusulas do contrato, \n\n inclusive permanecendo o mesmo valor global estimado. \n\n Data da Assinatura: 24/03/2020. \n\n Contratante: Fundo de Saúde dos Servidores Militares - FUNSAU \n\n Contratada: CIB-CONSULTÓRIOS INTEGRADOS DE BRAGANÇA LTDA-ME. \n\n Ordenador: JOSÉ DJALMA FERREIRA LIMA JÚNIOR CEL QOPM RG 18065. \n\n Diretor do FUNSAU. \n\n PROCEDIMENTOS ODONTOLÓGICOS \n\n PROTESE - PPR \n\n R$ 1.000,00 \n\n MANUTENÇÃO (APARELHO) \n\n R$ 80,00 \n\n APARELHO ESTÉTICO \n\n R$1.000,00 \n\n CLAREAMENTO CASEIRO \n\n R$ 300,00 \n\n CLAREAMENTO CASEIRO E CONSULTÓRIO \n\n R$ 661,07 \n\n PROTESE FICA - RESINA PRENSADA \n\n R$ 500,00 \n\n PROTESE TOTAL TIPO I \n\n R$ 600,00 \n\n Protocolo: 540132"
+        } ],
+        "scrapedContent" : [ {
+          "id" : 7,
+          "dataScraped" : [ {
+            "id" : 89,
+            "data" : [ {
+              "id" : 185,
+              "data" : "objeto"
+            }, {
+              "id" : 186,
+              "data" : " retirada procedimentos odontologicos contrato credenciamento nº 007/2018, nao alterando demais clausulas contrato, inclusive permanecendo valor global estimado."
+            } ]
+          }, {
+            "id" : 90,
+            "data" : [ {
+              "id" : 187,
+              "data" : "data assinatura"
+            }, {
+              "id" : 188,
+              "data" : " 24/03/2020."
+            } ]
+          }, {
+            "id" : 91,
+            "data" : [ {
+              "id" : 189,
+              "data" : "contratante"
+            }, {
+              "id" : 190,
+              "data" : " fundo saude servidores militares -"
+            } ]
+          }, {
+            "id" : 92,
+            "data" : [ {
+              "id" : 191,
+              "data" : "funsau contratada"
+            }, {
+              "id" : 192,
+              "data" : " cib-consultorios integrados braganca ltda-me."
+            } ]
+          }, {
+            "id" : 93,
+            "data" : [ {
+              "id" : 193,
+              "data" : "ordenador"
+            }, {
+              "id" : 194,
+              "data" : " jose djalma ferreira lima junior cel qopm rg 18065. diretor funsau. procedimentos odontologicos protese - ppr r$ 1.000,00 manutencao (aparelho) r$ 80,00 aparelho estetico r$1.000,00 clareamento caseiro r$ 300,00 clareamento caseiro consultorio r$ 661,07 protese fica - resina prensada r$ 500,00 protese total tipo i r$ 600,00"
+            } ]
+          } ]
+        } ]
+      }
+    } ]
+  }, {
+    "id" : 7,
+    "organName" : "CORPO DE BOMBEIROS MILITAR DO ESTADO DO PARÁ",
+    "terms" : [ {
+      "id" : 7,
+      "description" : "TERMO ADITIVO A CONTRATO",
+      "count" : 1,
+      "dataContent" : {
+        "id" : 7,
+        "content" : [ {
+          "id" : 195,
+          "data" : "Termo Aditivo: 03 \n\n Contrato: 360/2017 \n\n Data da Assinatura: 01/04/2020 \n\n Objeto: renovação contratual por mais 12 meses do período de vigência \n\n e valor global do Contrato no 360/2017 a contar de 01 de abril de 2020. \n\n Vigência: 01/04/2020 a 01/04/2021 \n\n Exercício: 2020 \n\n Valor: R$ 2.300.000,00 \n\n C. Funcional: 06.122.1297.4668 Elemento de Despesa: 339030 \n\n Fonte: 0101002169 \n\n Contratada: TICKET SOLUÇÕES HDFGT S/A, CNPJ: 03.506.307/0001-57 \n\n Ordenador: Hayman Apolo Gomes de Souza - CEL QOBM \n\n Protocolo: 540385"
+        } ],
+        "scrapedContent" : [ {
+          "id" : 8,
+          "dataScraped" : [ {
+            "id" : 94,
+            "data" : [ {
+              "id" : 196,
+              "data" : "aditivo"
+            }, {
+              "id" : 197,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 95,
+            "data" : [ {
+              "id" : 198,
+              "data" : "03 contrato"
+            }, {
+              "id" : 199,
+              "data" : " 360/2017"
+            } ]
+          }, {
+            "id" : 96,
+            "data" : [ {
+              "id" : 200,
+              "data" : "data assinatura"
+            }, {
+              "id" : 201,
+              "data" : " 01/04/2020"
+            } ]
+          }, {
+            "id" : 97,
+            "data" : [ {
+              "id" : 202,
+              "data" : "objeto"
+            }, {
+              "id" : 203,
+              "data" : " renovacao contratual 12 meses periodo vigencia valor global contrato 360/2017 contar 01 abril 2020."
+            } ]
+          }, {
+            "id" : 98,
+            "data" : [ {
+              "id" : 204,
+              "data" : "vigencia"
+            }, {
+              "id" : 205,
+              "data" : " 01/04/2020 01/04/2021"
+            } ]
+          }, {
+            "id" : 99,
+            "data" : [ {
+              "id" : 206,
+              "data" : "exercicio"
+            }, {
+              "id" : 207,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 100,
+            "data" : [ {
+              "id" : 208,
+              "data" : "2020 valor"
+            }, {
+              "id" : 209,
+              "data" : " r$ 2.300.000,00 c."
+            } ]
+          }, {
+            "id" : 101,
+            "data" : [ {
+              "id" : 210,
+              "data" : "funcional"
+            }, {
+              "id" : 211,
+              "data" : " 06.122.1297.4668"
+            } ]
+          }, {
+            "id" : 102,
+            "data" : [ {
+              "id" : 212,
+              "data" : "elemento despesa"
+            }, {
+              "id" : 213,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 103,
+            "data" : [ {
+              "id" : 214,
+              "data" : "339030 fonte"
+            }, {
+              "id" : 215,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 104,
+            "data" : [ {
+              "id" : 216,
+              "data" : "0101002169 contratada"
+            }, {
+              "id" : 217,
+              "data" : " ticket solucoes hdfgt s/a,"
+            } ]
+          }, {
+            "id" : 105,
+            "data" : [ {
+              "id" : 218,
+              "data" : "cnpj"
+            }, {
+              "id" : 219,
+              "data" : " 03.506.307/0001-57"
+            } ]
+          }, {
+            "id" : 106,
+            "data" : [ {
+              "id" : 220,
+              "data" : "ordenador"
+            }, {
+              "id" : 221,
+              "data" : " hayman apolo gomes souza - cel"
+            } ]
+          } ]
+        } ]
+      }
+    } ]
+  }, {
+    "id" : 8,
+    "organName" : "POLÍCIA CIVIL DO ESTADO DO PARÁ",
+    "terms" : [ {
+      "id" : 8,
+      "description" : "TERMO ADITIVO A CONTRATO",
+      "count" : 1,
+      "dataContent" : {
+        "id" : 8,
+        "content" : [ {
+          "id" : 222,
+          "data" : "3° Termo Aditivo ao Contrato n°004/2017-PC/PA. Partes: Polícia Civil do \n\n Estado do Pará. CNPJ nº 00.368.105/0001-06 e TICKET SOLUÇÕES HDF- \n\n GT S/A. CNPJ nº 03.506.307/0001-57. Data da Assinatura: 23/03/2020. \n\n Vigência: O prazo de vigência é por mais 12 (doze) meses a contar de \n\n 23/03/2020 à 23/03/2021. Objeto: prestação de serviço de sistema de \n\n gestão de abastecimento de combustível de unidades móveis da Polícia \n\n Civil/PA. Processo nº 2020/64007. Orçamento: 40101.06.122.1297.4668. \n\n 39030.0101. Endereço da Contratada: Rua Machado de Assis, 50, Edifício \n\n 02, Bairro Santa Lucia, Campo Bom/RS, CEP 93700-000. (51) 3920-2200 \n\n Ramal 8267/8273. Ordenador Responsável: Alberto Henrique Teixeira de \n\n Barros. Delegado Geral da Polícia Civil. \n\n Protocolo: 540130"
+        } ],
+        "scrapedContent" : [ {
+          "id" : 9,
+          "dataScraped" : [ {
+            "id" : 107,
+            "data" : [ {
+              "id" : 223,
+              "data" : "partes"
+            }, {
+              "id" : 224,
+              "data" : " policia civil estado para. cnpj nº 00.368.105/0001-06 ticket solucoes hdfgt s/a. cnpj nº 03.506.307/0001-57."
+            } ]
+          }, {
+            "id" : 108,
+            "data" : [ {
+              "id" : 225,
+              "data" : "data assinatura"
+            }, {
+              "id" : 226,
+              "data" : " 23/03/2020."
+            } ]
+          }, {
+            "id" : 109,
+            "data" : [ {
+              "id" : 227,
+              "data" : "vigencia"
+            }, {
+              "id" : 228,
+              "data" : " prazo vigencia 12 (doze) meses contar 23/03/2020 23/03/2021."
+            } ]
+          }, {
+            "id" : 110,
+            "data" : [ {
+              "id" : 229,
+              "data" : "objeto"
+            }, {
+              "id" : 230,
+              "data" : " prestacao servico sistema gestao abastecimento combustivel unidades moveis policia civil/pa. processo nº 2020/64007."
+            } ]
+          }, {
+            "id" : 111,
+            "data" : [ {
+              "id" : 231,
+              "data" : "orcamento"
+            }, {
+              "id" : 232,
+              "data" : " 40101.06.122.1297.4668. 39030.0101."
+            } ]
+          }, {
+            "id" : 112,
+            "data" : [ {
+              "id" : 233,
+              "data" : "endereco contratada"
+            }, {
+              "id" : 234,
+              "data" : " rua machado assis, 50, edificio 02, bairro santa lucia, campo bom/rs, cep 93700-000. (51) 3920-2200 ramal 8267/8273."
+            } ]
+          }, {
+            "id" : 113,
+            "data" : [ {
+              "id" : 235,
+              "data" : "ordenador responsavel"
+            }, {
+              "id" : 236,
+              "data" : " alberto henrique teixeira barros. delegado geral policia civil."
+            } ]
+          } ]
+        } ]
+      }
+    } ]
+  }, {
+    "id" : 9,
+    "organName" : "SECRETARIA DE ESTADO DE CULTURA",
+    "terms" : [ {
+      "id" : 9,
+      "description" : "TERMO ADITIVO A CONTRATO",
+      "count" : 1,
+      "dataContent" : {
+        "id" : 9,
+        "content" : [ {
+          "id" : 237,
+          "data" : "JUSTIFICATIVA: O presente Termo Aditivo tem por objeto a alteração con- \n\n tratual para acréscimo de quantitativo em mais 01 (uma) Máquina Fotoco- \n\n piadora, Digitalizadora e Impressora Colorida, com serviço de manutenção \n\n corretiva e preventiva, assistência e fornecimento de insumos. \n\n PROJETO ATIVIDADE: 8238. FONTE DE RECURSO: 0101000000 (RECUR- \n\n SOS ORDINÁRIOS). NATUREZA DA DESPESA: 339040 - SERVIÇO DE TEC- \n\n NOLOGIA DA INFORMAÇÃO. PTRES: 158238. PI: 412CTO8238C. AÇÃO: \n\n 260478. FUNCIONAL PROGRAMÁTICA: 13.126.1508-8238. \n\n PROJETO ATIVIDADE: 8238. FONTE DE RECURSO: 0101006356 (RECUR- \n\n SOS ORDINÁRIOS). NATUREZA DA DESPESA: 339039 - OUTROS SERVIÇOS \n\n DE TERCEIROS - PESSOA JURÍDICA. PTRES: 158238. PI: 412CTO8238C. \n\n AÇÃO: 260478. FUNCIONAL PROGRAMÁTICA: 13.126.1508-8238. \n\n CONTRATO: 032 \n\n EXERCÍCIO: 2017 \n\n CONTRATADO: TECNOSET INFORMÁTICA PRODUTOS E SERVIÇOS LTDA \n\n ENDEREÇO: Rua Tamoios, nº 246, CEP: 04.630-000, Bairro Jardim Aero- \n\n porto, Estado São Paulo - SP. \n\n ORDENADOR: Bruno Chagas da Silva Rodrigues Ferreira \n\n Protocolo: 540082"
+        } ],
+        "scrapedContent" : [ {
+          "id" : 10,
+          "dataScraped" : [ {
+            "id" : 114,
+            "data" : [ {
+              "id" : 238,
+              "data" : "projeto atividade"
+            }, {
+              "id" : 239,
+              "data" : " 8238."
+            } ]
+          }, {
+            "id" : 115,
+            "data" : [ {
+              "id" : 240,
+              "data" : "fonte recurso"
+            }, {
+              "id" : 241,
+              "data" : " 0101000000 (recursos ordinarios)."
+            } ]
+          }, {
+            "id" : 116,
+            "data" : [ {
+              "id" : 242,
+              "data" : "natureza despesa"
+            }, {
+              "id" : 243,
+              "data" : " 339040 - servico tecnologia informacao."
+            } ]
+          }, {
+            "id" : 117,
+            "data" : [ {
+              "id" : 244,
+              "data" : "ptres"
+            }, {
+              "id" : 245,
+              "data" : " 158238."
+            } ]
+          }, {
+            "id" : 118,
+            "data" : [ {
+              "id" : 246,
+              "data" : "pi"
+            }, {
+              "id" : 247,
+              "data" : " 412cto8238c."
+            } ]
+          }, {
+            "id" : 119,
+            "data" : [ {
+              "id" : 248,
+              "data" : "acao"
+            }, {
+              "id" : 249,
+              "data" : " 260478."
+            } ]
+          }, {
+            "id" : 120,
+            "data" : [ {
+              "id" : 250,
+              "data" : "funcional programatica"
+            }, {
+              "id" : 251,
+              "data" : " 13.126.1508-8238."
+            } ]
+          }, {
+            "id" : 121,
+            "data" : [ {
+              "id" : 252,
+              "data" : "projeto atividade"
+            }, {
+              "id" : 253,
+              "data" : " 8238."
+            } ]
+          }, {
+            "id" : 122,
+            "data" : [ {
+              "id" : 254,
+              "data" : "fonte recurso"
+            }, {
+              "id" : 255,
+              "data" : " 0101006356 (recursos ordinarios)."
+            } ]
+          }, {
+            "id" : 123,
+            "data" : [ {
+              "id" : 256,
+              "data" : "natureza despesa"
+            }, {
+              "id" : 257,
+              "data" : " 339039 - outros servicos terceiros - pessoa juridica."
+            } ]
+          }, {
+            "id" : 124,
+            "data" : [ {
+              "id" : 258,
+              "data" : "ptres"
+            }, {
+              "id" : 259,
+              "data" : " 158238."
+            } ]
+          }, {
+            "id" : 125,
+            "data" : [ {
+              "id" : 260,
+              "data" : "pi"
+            }, {
+              "id" : 261,
+              "data" : " 412cto8238c."
+            } ]
+          }, {
+            "id" : 126,
+            "data" : [ {
+              "id" : 262,
+              "data" : "acao"
+            }, {
+              "id" : 263,
+              "data" : " 260478."
+            } ]
+          }, {
+            "id" : 127,
+            "data" : [ {
+              "id" : 264,
+              "data" : "funcional programatica"
+            }, {
+              "id" : 265,
+              "data" : " 13.126.1508-8238."
+            } ]
+          }, {
+            "id" : 128,
+            "data" : [ {
+              "id" : 266,
+              "data" : "contrato"
+            }, {
+              "id" : 267,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 129,
+            "data" : [ {
+              "id" : 268,
+              "data" : "032 exercicio"
+            }, {
+              "id" : 269,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 130,
+            "data" : [ {
+              "id" : 270,
+              "data" : "2017 contratado"
+            }, {
+              "id" : 271,
+              "data" : " tecnoset informatica produtos servicos"
+            } ]
+          }, {
+            "id" : 131,
+            "data" : [ {
+              "id" : 272,
+              "data" : "ltda endereco"
+            }, {
+              "id" : 273,
+              "data" : " rua tamoios, nº 246,"
+            } ]
+          }, {
+            "id" : 132,
+            "data" : [ {
+              "id" : 274,
+              "data" : "cep"
+            }, {
+              "id" : 275,
+              "data" : " 04.630-000, bairro jardim aeroporto, estado sao paulo - sp."
+            } ]
+          }, {
+            "id" : 133,
+            "data" : [ {
+              "id" : 276,
+              "data" : "ordenador"
+            }, {
+              "id" : 277,
+              "data" : " bruno chagas silva rodrigues"
+            } ]
+          } ]
+        } ]
+      }
+    } ]
+  }, {
+    "id" : 10,
+    "organName" : "SECRETARIA DE ESTADO DE DESENVOLVIMENTO URBANO E OBRAS PÚBLICAS",
+    "terms" : [ {
+      "id" : 10,
+      "description" : "TERMO ADITIVO A CONTRATO",
+      "count" : 1,
+      "dataContent" : {
+        "id" : 10,
+        "content" : [ {
+          "id" : 278,
+          "data" : "9º TAC Nº 07/2017 - CP 008/2016 \n\n Partes: \n\n Secretaria de Estado de Desenvolvimento Urbano e Obras Públicas - CNPJ \n\n 03.137.985/0001-90 \n\n STYLUS CONSTRUÇÃO CIVIL E SERVIÇOS LTDA - CNPJ 07.342.268/0001- \n\n 50 \n\n OBJETO: CONCLUSÃO DA OBRA DO GINÁSIO POLIESPORTIVO PARA CIN- \n\n CO MIL PESSOAS, NO MUNICÍPIO DE SANTARÉM/PA, no Estado do Pará. \n\n Justificativa: Reequilíbrio econômico-financeiro, cfe. Art. 65, II, d, da Lei \n\n 8.666/93 e Prorrogação de prazo, cfe. Art. 57, §1º, VI da Lei nº 8.666/93. \n\n Valor do Reequilíbrio: R$ 592.262,87 \n\n Vigência: 03/04/2020 a 03/05/2020 \n\n Dotação Orçamentária: 07101 04.451.1424.7556 0101/0301 449051 \n\n Data de Assinatura: 03/04/2020 \n\n Ordenador: Benedito Ruy Santos Cabral \n\n Secretário de Estado de Desenvolvimento Urbano e Obras Públicas \n\n Protocolo: 540227"
+        } ],
+        "scrapedContent" : [ {
+          "id" : 11,
+          "dataScraped" : [ {
+            "id" : 134,
+            "data" : [ {
+              "id" : 279,
+              "data" : "partes"
+            }, {
+              "id" : 280,
+              "data" : " secretaria estado desenvolvimento urbano obras publicas - cnpj 03.137.985/0001-90 stylus construcao civil servicos ltda - cnpj 07.342.268/000150"
+            } ]
+          }, {
+            "id" : 135,
+            "data" : [ {
+              "id" : 281,
+              "data" : "objeto"
+            }, {
+              "id" : 282,
+              "data" : " conclusao obra ginasio poliesportivo cinco mil pessoas, municipio santarem/pa, estado para."
+            } ]
+          }, {
+            "id" : 136,
+            "data" : [ {
+              "id" : 283,
+              "data" : "justificativa"
+            }, {
+              "id" : 284,
+              "data" : " reequilibrio economico-financeiro, cfe. art. 65, ii, d, lei 8.666/93 prorrogacao prazo, cfe. art. 57, §1º, vi lei nº 8.666/93."
+            } ]
+          }, {
+            "id" : 137,
+            "data" : [ {
+              "id" : 285,
+              "data" : "valor reequilibrio"
+            }, {
+              "id" : 286,
+              "data" : " r$ 592.262,87"
+            } ]
+          }, {
+            "id" : 138,
+            "data" : [ {
+              "id" : 287,
+              "data" : "vigencia"
+            }, {
+              "id" : 288,
+              "data" : " 03/04/2020 03/05/2020"
+            } ]
+          }, {
+            "id" : 139,
+            "data" : [ {
+              "id" : 289,
+              "data" : "dotacao orcamentaria"
+            }, {
+              "id" : 290,
+              "data" : " 07101 04.451.1424.7556 0101/0301 449051"
+            } ]
+          }, {
+            "id" : 140,
+            "data" : [ {
+              "id" : 291,
+              "data" : "data assinatura"
+            }, {
+              "id" : 292,
+              "data" : " 03/04/2020"
+            } ]
+          }, {
+            "id" : 141,
+            "data" : [ {
+              "id" : 293,
+              "data" : "ordenador"
+            }, {
+              "id" : 294,
+              "data" : " benedito ruy santos cabral secretario estado desenvolvimento urbano obras"
+            } ]
+          } ]
+        } ]
+      }
+    } ]
+  }, {
+    "id" : 11,
+    "organName" : "MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ",
+    "terms" : [ {
+      "id" : 11,
+      "description" : "TERMO ADITIVO A CONTRATO",
+      "count" : 2,
+      "dataContent" : {
+        "id" : 11,
+        "content" : [ {
+          "id" : 295,
+          "data" : "Núm. do Termo aditivo: 4 \n\n Núm. do Contrato: 081/2017-MP/PA. \n\n Partes: Ministério Público do Estado do Pará e a empresa SERVICELINE \n\n COMÉRCIO E SERVIÇOS ESPECIALIZADOS LTDA-ME. \n\n Objeto e Justificativa do Aditamento: Contratação de pessoa jurídica para \n\n prestação de serviços de recepcionista e de telefonista nas dependências \n\n do Ministério Público do Estado do Pará, no Município de Abaetetuba - Polo \n\n de Tocantins (Lote V). Prorrogação do prazo de vigência. \n\n Data de Assinatura: 07/04/2020 \n\n Vigência do Aditamento: 01/09/2020 a 31/08/2021. \n\n Dotação Orçamentária: \n\n Atividade: 12101.03.091.1494.8758 - Promoção e Defesa dos Direitos \n\n Constitucionais. \n\n Elemento de Despesa: 3390-37 - Locação de Mão-de-Obra \n\n Fonte: 0101 - Recursos Ordinários \n\n Ordenador Responsável: Dr. Gilberto Valente Martins. \n\n Protocolo: 540274"
+        }, {
+          "id" : 296,
+          "data" : "Núm. do Termo aditivo: 4 \n\n Núm. do Contrato: 090/2017-MP/PA. \n\n Partes: Ministério Público do Estado do Pará e a empresa SERVICELINE \n\n COMÉRCIO E SERVIÇOS ESPECIALIZADOS LTDA-ME. \n\n Objeto e Justificativa do Aditamento: Contratação de pessoa jurídica para \n\n prestação de serviços de recepcionista e de telefonista nas dependências \n\n do Ministério Público do Estado do Pará, no Município de Marabá - Polo \n\n Sudeste I (Lote VI). Prorrogação do prazo de vigência. \n\n Quarta-feira \n\n Data de Assinatura: 07/04/2020 \n\n Vigência do Aditamento: 01/09/2020 a 31/08/2021. \n\n Dotação Orçamentária: \n\n Atividade: 12101.03.091.1494.8758 - Promoção e Defesa dos Direitos \n\n Constitucionais. \n\n Elemento de Despesa: 3390-37 - Locação de Mão-de-Obra \n\n Fonte: 0101 - Recursos Ordinários \n\n Ordenador Responsável: Dr. Gilberto Valente Martins. \n\n Protocolo: 540269"
+        } ],
+        "scrapedContent" : [ {
+          "id" : 12,
+          "dataScraped" : [ {
+            "id" : 142,
+            "data" : [ {
+              "id" : 297,
+              "data" : "termo aditivo"
+            }, {
+              "id" : 298,
+              "data" : " 4 num."
+            } ]
+          }, {
+            "id" : 143,
+            "data" : [ {
+              "id" : 299,
+              "data" : "contrato"
+            }, {
+              "id" : 300,
+              "data" : " 081/2017-mp/pa."
+            } ]
+          }, {
+            "id" : 144,
+            "data" : [ {
+              "id" : 301,
+              "data" : "partes"
+            }, {
+              "id" : 302,
+              "data" : " ministerio publico estado empresa serviceline comercio servicos especializados ltda-me. objeto"
+            } ]
+          }, {
+            "id" : 145,
+            "data" : [ {
+              "id" : 303,
+              "data" : "justificativa aditamento"
+            }, {
+              "id" : 304,
+              "data" : " contratacao pessoa juridica prestacao servicos recepcionista telefonista dependencias ministerio publico estado para, municipio abaetetuba - polo tocantins (lote v). prorrogacao prazo vigencia."
+            } ]
+          }, {
+            "id" : 146,
+            "data" : [ {
+              "id" : 305,
+              "data" : "data assinatura"
+            }, {
+              "id" : 306,
+              "data" : " 07/04/2020"
+            } ]
+          }, {
+            "id" : 147,
+            "data" : [ {
+              "id" : 307,
+              "data" : "vigencia aditamento"
+            }, {
+              "id" : 308,
+              "data" : " 01/09/2020 31/08/2021."
+            } ]
+          }, {
+            "id" : 148,
+            "data" : [ {
+              "id" : 309,
+              "data" : "dotacao orcamentaria"
+            }, {
+              "id" : 310,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 149,
+            "data" : [ {
+              "id" : 311,
+              "data" : "atividade"
+            }, {
+              "id" : 312,
+              "data" : " 12101.03.091.1494.8758 - promocao defesa direitos constitucionais."
+            } ]
+          }, {
+            "id" : 150,
+            "data" : [ {
+              "id" : 313,
+              "data" : "elemento despesa"
+            }, {
+              "id" : 314,
+              "data" : " 3390-37 - locacao mao-de-obra"
+            } ]
+          }, {
+            "id" : 151,
+            "data" : [ {
+              "id" : 315,
+              "data" : "fonte"
+            }, {
+              "id" : 316,
+              "data" : " 0101 - recursos ordinarios"
+            } ]
+          }, {
+            "id" : 152,
+            "data" : [ {
+              "id" : 317,
+              "data" : "ordenador responsavel"
+            }, {
+              "id" : 318,
+              "data" : " dr. gilberto valente martins."
+            } ]
+          } ]
+        }, {
+          "id" : 13,
+          "dataScraped" : [ {
+            "id" : 153,
+            "data" : [ {
+              "id" : 319,
+              "data" : "termo aditivo"
+            }, {
+              "id" : 320,
+              "data" : " 4 num."
+            } ]
+          }, {
+            "id" : 154,
+            "data" : [ {
+              "id" : 321,
+              "data" : "contrato"
+            }, {
+              "id" : 322,
+              "data" : " 090/2017-mp/pa."
+            } ]
+          }, {
+            "id" : 155,
+            "data" : [ {
+              "id" : 323,
+              "data" : "partes"
+            }, {
+              "id" : 324,
+              "data" : " ministerio publico estado empresa serviceline comercio servicos especializados ltda-me. objeto"
+            } ]
+          }, {
+            "id" : 156,
+            "data" : [ {
+              "id" : 325,
+              "data" : "justificativa aditamento"
+            }, {
+              "id" : 326,
+              "data" : " contratacao pessoa juridica prestacao servicos recepcionista telefonista dependencias ministerio publico estado para, municipio maraba - polo sudeste i (lote vi). prorrogacao prazo vigencia. quarta-feira"
+            } ]
+          }, {
+            "id" : 157,
+            "data" : [ {
+              "id" : 327,
+              "data" : "data assinatura"
+            }, {
+              "id" : 328,
+              "data" : " 07/04/2020"
+            } ]
+          }, {
+            "id" : 158,
+            "data" : [ {
+              "id" : 329,
+              "data" : "vigencia aditamento"
+            }, {
+              "id" : 330,
+              "data" : " 01/09/2020 31/08/2021."
+            } ]
+          }, {
+            "id" : 159,
+            "data" : [ {
+              "id" : 331,
+              "data" : "dotacao orcamentaria"
+            }, {
+              "id" : 332,
+              "data" : ""
+            } ]
+          }, {
+            "id" : 160,
+            "data" : [ {
+              "id" : 333,
+              "data" : "atividade"
+            }, {
+              "id" : 334,
+              "data" : " 12101.03.091.1494.8758 - promocao defesa direitos constitucionais."
+            } ]
+          }, {
+            "id" : 161,
+            "data" : [ {
+              "id" : 335,
+              "data" : "elemento despesa"
+            }, {
+              "id" : 336,
+              "data" : " 3390-37 - locacao mao-de-obra"
+            } ]
+          }, {
+            "id" : 162,
+            "data" : [ {
+              "id" : 337,
+              "data" : "fonte"
+            }, {
+              "id" : 338,
+              "data" : " 0101 - recursos ordinarios"
+            } ]
+          }, {
+            "id" : 163,
+            "data" : [ {
+              "id" : 339,
+              "data" : "ordenador responsavel"
+            }, {
+              "id" : 340,
+              "data" : " dr. gilberto valente martins."
+            } ]
+          } ]
+        } ]
+      }
+    } ]
+  } ]
+}

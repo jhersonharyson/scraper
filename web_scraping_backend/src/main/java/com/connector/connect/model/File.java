@@ -26,6 +26,9 @@ public class File {
     private String fileName;
 
     @Column
+    private String dateOfDocument;
+
+    @Column
     private String sourceUrl;
 
     @Column
@@ -47,21 +50,25 @@ public class File {
     public File() {
     }
 
-    public File(Long id, String fileName, String sourceUrl, Date date, String numberOfDocument, List<Organ> organ) {
+    public File(Long id, String fileName, String sourceUrl, String dateOfDocument, Date date, String numberOfDocument, List<Organ> organ) {
         this.id = id;
         this.fileName = fileName;
         this.sourceUrl = sourceUrl;
+        this.dateOfDocument = dateOfDocument;
         this.date = date;
         this.numberOfDocument = numberOfDocument;
         this.organ = organ;
     }
 
-    public File(Long id, String fileName, String sourceUrl, String numberOfDocument, List<Organ> organ) {
+    public File(Long id, String fileName, String sourceUrl, String dateOfDocument, String numberOfDocument, List<Organ> organ) {
         this.id = id;
         this.fileName = fileName;
         this.sourceUrl = sourceUrl;
+        this.dateOfDocument = dateOfDocument;
         this.numberOfDocument = numberOfDocument;
         this.organ = organ;
         this.date = new Date();
     }
+
+
 }

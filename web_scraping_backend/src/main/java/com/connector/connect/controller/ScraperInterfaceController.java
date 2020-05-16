@@ -39,7 +39,7 @@ public class ScraperInterfaceController {
         System.out.println("Recebendo arquivo post");
         Response<File> response = new Response<>();
         try {
-            response.setData(fileService.save(file));
+            response.setData(fileService.saveAndWrite(file));
             return ResponseEntity.ok(response);
         } catch (InternalError e) {
             e.printStackTrace();
@@ -63,10 +63,10 @@ public class ScraperInterfaceController {
 
 
     @GetMapping("/document/{numberOfDocument}")
-    ResponseEntity<Response<File>> getFilesByNumberOfDocument(@PathVariable() String numberOfDocument ) /*@RequestParam("number_of_document") Optional<String> numberOfDocument) */ {
-        Response<File> response = new Response<>();
+    ResponseEntity<Response< List<File>>> getFilesByNumberOfDocument(@PathVariable() String numberOfDocument ) /*@RequestParam("number_of_document") Optional<String> numberOfDocument) */ {
+        Response< List<File>> response = new Response<>();
         try {
-            File files = fileService.findByNumberOfDocument(numberOfDocument);
+            List<File> files = fileService.findByNumberOfDocument(numberOfDocument);
             response.setData(files);
             return ResponseEntity.ok(response);
         }catch (InternalError e){

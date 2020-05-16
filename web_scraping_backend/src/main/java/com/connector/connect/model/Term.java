@@ -23,6 +23,8 @@ public class Term {
     @Column
     private String description;
 
+    @Column
+    private Integer count;
 
     @OneToOne(cascade = CascadeType.ALL, orphanRemoval = true)
     private DataContent dataContent;

@@ -20,8 +20,6 @@ public class DataContent {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column
-    private Integer count;
 
     @Column
     @OneToMany(cascade = CascadeType.ALL, orphanRemoval = true)
@@ -36,8 +34,7 @@ public class DataContent {
     }
 
 
-    public DataContent(Integer count, List<Data> content, List<ScrapedContent> scrapedContent) {
-        this.count = count;
+    public DataContent(List<Data> content, List<ScrapedContent> scrapedContent) {
         this.content = content;
         this.scrapedContent = scrapedContent;
     }

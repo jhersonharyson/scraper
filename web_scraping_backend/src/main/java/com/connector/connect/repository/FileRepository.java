@@ -22,4 +22,7 @@ public interface FileRepository extends CrudRepository<File, Long> {
 
 
     public File findByNumberOfDocument(String numberOfDocument);
+
+    @Query("SELECT f FROM File f WHERE f.numberOfDocument LIKE CONCAT('%', CONCAT(:numberOfDocument, '%'))")
+    public List<File> findAllByNumberOfDocument(@Param("numberOfDocument") String numberOfDocument);
 }
