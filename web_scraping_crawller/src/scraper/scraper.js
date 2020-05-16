@@ -408,17 +408,17 @@ const prepareOrgansDataBeforaSend = (data) => {
   for(const term in data){
     let terms = []
     for(const description in data[term]) {
-      let dataScrapped = []
+      let dataScraped = []
       data[term][description].scrapedContent.forEach(data => {
         let lines = []
         data.forEach( d =>{
           lines.push({data: d})
         })
-      dataScrapped.push({dataScrapped: lines})
+      dataScraped.push({dataScraped: lines})
     })
 
-      data[term][description].scrapedContent = dataScrapped
-      terms.push({description, dataContent: data[term][description]})
+      data[term][description].scrapedContent = dataScraped
+      terms.push({description, dataContent: data[term][description], count: data[term][description]['count']})
     }
     dataOrgans.push({organName: term, terms})
   }
